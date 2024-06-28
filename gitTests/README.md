@@ -1,1 +1,0 @@
-# This is repo for git lessons --- text_1
