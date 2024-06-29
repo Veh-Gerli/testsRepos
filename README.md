@@ -1,7 +1,3 @@
-#This is text_1
-
-# ~~This is Markdown~~
-[Ссылка](#)
 ## **Name**: 
 Julia Kuzmina
 ## **Education**: 
@@ -19,3 +15,5 @@ BGTU (Brynsk)
 - git
 - html, css, js
 - sql
+
+[Ссылка](#)
